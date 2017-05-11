@@ -1,0 +1,26 @@
+1. How about an index that urns from 0 to 2*pi with 10 elements?
+	0 0.6283 1.2566 1.8850 2.5133 3.1416 3.7699 4.3982 5.0265 5.6549 6.2832
+
+2. Does index3 have 10 elements? 
+	No, it has 11
+
+3. Can you explain why index3 has 11 elements?
+	Because it includes 0
+
+4. What happened? Explain what this is doing in your lab book.
+	It took row two through three and where it intersects with column two through three and replaces it with 0.5 0.5;0.7 0.7
+
+5. Record practices (see screen shots)
+
+6. Fig 1
+
+7. What is the difference between the following two operations?
+	the first one multiplies the matrix by itself. 
+	The second one squares each element. 
+	Fig 2
+
+8. makes a higher pitch sound. Because it's a higher frequency
+
+9. The (t > 3) and (t < 5) is acting like a filter. so any number above 5 and under threee would make s1 multiply by 0
+
+
